@@ -1,0 +1,2 @@
+Rechenraetsel mit 4 Operatoren: 8 _ 5 _ 4 _ 5 _ 2 = 400
+Loesung dieses Rechenraetsels: 8 * 5 * 4 * 5 : 2 = 400

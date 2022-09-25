@@ -1,0 +1,2 @@
+Rechenraetsel mit 22 Operatoren: 5 _ 5 _ 3 _ 6 _ 5 _ 9 _ 2 _ 9 _ 3 _ 2 _ 3 _ 3 _ 9 _ 2 _ 8 _ 8 _ 2 _ 9 _ 5 _ 5 _ 4 _ 3 _ 4 = 990572
+Loesung dieses Rechenraetsels: 5 + 5 * 3 * 6 - 5 * 9 * 2 * 9 * 3 * 2 + 3 * 3 + 9 * 2 * 8 * 8 * 2 * 9 * 5 : 5 * 4 * 3 * 4 = 990572

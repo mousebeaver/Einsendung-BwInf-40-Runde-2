@@ -1,0 +1,2 @@
+Rechenraetsel mit 21 Operatoren: 5 _ 3 _ 3 _ 7 _ 8 _ 8 _ 7 _ 5 _ 2 _ 5 _ 3 _ 7 _ 6 _ 4 _ 4 _ 7 _ 4 _ 5 _ 3 _ 6 _ 5 _ 3 = 82051
+Loesung dieses Rechenraetsels: 5 * 3 : 3 * 7 * 8 * 8 * 7 * 5 + 2 * 5 * 3 * 7 : 6 * 4 * 4 * 7 - 4 + 5 - 3 * 6 * 5 * 3 = 82051

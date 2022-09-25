@@ -1,0 +1,2 @@
+Rechenraetsel mit 5 Operatoren: 5 _ 9 _ 9 _ 4 _ 9 _ 6 = 14586
+Loesung dieses Rechenraetsels: 5 * 9 * 9 * 4 * 9 + 6 = 14586

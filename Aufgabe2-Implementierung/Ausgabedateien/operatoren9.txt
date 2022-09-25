@@ -1,0 +1,2 @@
+Rechenraetsel mit 9 Operatoren: 9 _ 8 _ 7 _ 4 _ 8 _ 9 _ 9 _ 7 _ 2 _ 7 = 9121
+Loesung dieses Rechenraetsels: 9 * 8 * 7 : 4 * 8 * 9 + 9 * 7 - 2 * 7 = 9121

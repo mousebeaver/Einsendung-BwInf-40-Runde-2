@@ -1,0 +1,2 @@
+Rechenraetsel mit 13 Operatoren: 7 _ 5 _ 4 _ 9 _ 9 _ 7 _ 4 _ 5 _ 4 _ 3 _ 3 _ 9 _ 6 _ 2 = 4414
+Loesung dieses Rechenraetsels: 7 + 5 - 4 + 9 * 9 + 7 + 4 * 5 * 4 * 3 : 3 * 9 * 6 - 2 = 4414

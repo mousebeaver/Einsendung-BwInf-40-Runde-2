@@ -1,0 +1,2 @@
+Rechenraetsel mit 2 Operatoren: 2 _ 5 _ 2 = 8
+Loesung dieses Rechenraetsels: 2 * 5 - 2 = 8

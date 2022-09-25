@@ -1,0 +1,2 @@
+Rechenraetsel mit 10 Operatoren: 6 _ 9 _ 5 _ 6 _ 2 _ 8 _ 3 _ 5 _ 3 _ 4 _ 9 = 2874
+Loesung dieses Rechenraetsels: 6 + 9 - 5 * 6 + 2 * 8 * 3 * 5 * 3 * 4 + 9 = 2874

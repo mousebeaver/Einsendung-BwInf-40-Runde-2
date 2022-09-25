@@ -1,0 +1,2 @@
+Rechenraetsel mit 3 Operatoren: 3 _ 8 _ 4 _ 4 = 19
+Loesung dieses Rechenraetsels: 3 + 8 + 4 + 4 = 19

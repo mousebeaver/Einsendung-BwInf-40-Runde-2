@@ -1,0 +1,2 @@
+Rechenraetsel mit 11 Operatoren: 2 _ 5 _ 9 _ 7 _ 5 _ 2 _ 9 _ 6 _ 2 _ 9 _ 4 _ 2 = 5767
+Loesung dieses Rechenraetsels: 2 - 5 + 9 * 7 * 5 * 2 * 9 + 6 * 2 * 9 - 4 * 2 = 5767

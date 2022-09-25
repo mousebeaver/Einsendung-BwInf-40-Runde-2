@@ -1,0 +1,2 @@
+Rechenraetsel mit 15 Operatoren: 9 _ 2 _ 8 _ 6 _ 9 _ 5 _ 9 _ 6 _ 9 _ 4 _ 8 _ 8 _ 7 _ 9 _ 5 _ 7 = 63120
+Loesung dieses Rechenraetsels: 9 - 2 + 8 * 6 * 9 - 5 * 9 + 6 + 9 * 4 * 8 * 8 * 7 : 9 * 5 * 7 = 63120

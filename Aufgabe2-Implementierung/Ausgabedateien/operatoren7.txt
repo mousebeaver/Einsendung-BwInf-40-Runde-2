@@ -1,0 +1,2 @@
+Rechenraetsel mit 7 Operatoren: 6 _ 9 _ 4 _ 2 _ 7 _ 5 _ 7 _ 7 = 418
+Loesung dieses Rechenraetsels: 6 * 9 * 4 * 2 + 7 * 5 - 7 * 7 = 418

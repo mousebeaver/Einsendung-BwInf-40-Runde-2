@@ -1,0 +1,2 @@
+Rechenraetsel mit 1 Operator: 6 _ 3 = 3
+Loesung dieses Rechenraetsels: 6 - 3 = 3

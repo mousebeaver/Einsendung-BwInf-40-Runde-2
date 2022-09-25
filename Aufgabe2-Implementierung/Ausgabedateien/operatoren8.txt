@@ -1,0 +1,2 @@
+Rechenraetsel mit 8 Operatoren: 3 _ 7 _ 3 _ 3 _ 2 _ 4 _ 7 _ 2 _ 7 = 259
+Loesung dieses Rechenraetsels: 3 * 7 * 3 * 3 + 2 * 4 * 7 + 2 * 7 = 259
